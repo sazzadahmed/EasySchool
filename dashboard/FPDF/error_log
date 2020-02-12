@@ -1,0 +1,24 @@
+[11-Jun-2018 06:09:52 Europe/London] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../Image/1096020.jpg in /home/easyscho/public_html/CFM/dashboard/FPDF/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/easyscho/public_html/CFM/dashboard/FPDF/fpdf/fpdf.php(1245): FPDF->Error('Missing or inco...')
+#1 /home/easyscho/public_html/CFM/dashboard/FPDF/fpdf/fpdf.php(885): FPDF->_parsejpg('../Image/109602...')
+#2 /home/easyscho/public_html/CFM/dashboard/FPDF/file_with_five_methods.php(42): FPDF->Image('../Image/109602...', 240, 20, 50)
+#3 /home/easyscho/public_html/CFM/dashboard/FPDF/methods_call.php(15): PDF->Download_cv(Array, Object(mysqli_result))
+#4 {main}
+  thrown in /home/easyscho/public_html/CFM/dashboard/FPDF/fpdf/fpdf.php on line 271
+[27-Aug-2018 09:57:08 Europe/London] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../Image/1096020.jpg in /home/easyscho/public_html/CFM/dashboard/FPDF/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/easyscho/public_html/CFM/dashboard/FPDF/fpdf/fpdf.php(1245): FPDF->Error('Missing or inco...')
+#1 /home/easyscho/public_html/CFM/dashboard/FPDF/fpdf/fpdf.php(885): FPDF->_parsejpg('../Image/109602...')
+#2 /home/easyscho/public_html/CFM/dashboard/FPDF/file_with_five_methods.php(42): FPDF->Image('../Image/109602...', 240, 20, 50)
+#3 /home/easyscho/public_html/CFM/dashboard/FPDF/methods_call.php(15): PDF->Download_cv(Array, Object(mysqli_result))
+#4 {main}
+  thrown in /home/easyscho/public_html/CFM/dashboard/FPDF/fpdf/fpdf.php on line 271
+[24-Oct-2018 05:20:18 Europe/London] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../Image/1096020.jpg in /home/easyscho/public_html/CFM/dashboard/FPDF/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/easyscho/public_html/CFM/dashboard/FPDF/fpdf/fpdf.php(1245): FPDF->Error('Missing or inco...')
+#1 /home/easyscho/public_html/CFM/dashboard/FPDF/fpdf/fpdf.php(885): FPDF->_parsejpg('../Image/109602...')
+#2 /home/easyscho/public_html/CFM/dashboard/FPDF/file_with_five_methods.php(42): FPDF->Image('../Image/109602...', 240, 20, 50)
+#3 /home/easyscho/public_html/CFM/dashboard/FPDF/methods_call.php(15): PDF->Download_cv(Array, Object(mysqli_result))
+#4 {main}
+  thrown in /home/easyscho/public_html/CFM/dashboard/FPDF/fpdf/fpdf.php on line 271

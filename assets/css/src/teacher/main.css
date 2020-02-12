@@ -1,0 +1,11 @@
+.teacher_active{
+    color: #000000; 
+    background-color: #dddddd; 
+    
+}
+
+.teacher_selected_exam {
+    color: #ffffff; 
+    background-color: #398439;
+    border-color: #255625; 
+}

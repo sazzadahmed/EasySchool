@@ -1,0 +1,41 @@
+<input name= "date" type="date" id="Ultra" onchange="run()"  />
+
+<select >  
+ <option value="11/15/1991">1991-11-15</option> <!-- year value was 991 instead of 1991, might cause you to think the calculation is wrong -->
+ <option value="10/23/1992">1992-10-23</option>
+</select><br><br>
+TextBox1<br>
+ <input type="text" id="srt" placeholder="get value on option select"   readonly="readonly"><br>
+<script type="text/javascript">
+
+  var birth = new Date(document.getElementById("Ultra").value); //string containing date has to be passed as parameter to Date() function to create a date object that can be used with the current date object below
+  var x="2 2 2011";
+var countDownDate = new Date(x).getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+    // Get todays date and time
+    var now = new Date().getTime();
+    
+    // Find the distance between now an the count down date
+    var distance = now-countDownDate;
+    
+    // Time calculations for days, hours, minutes and seconds
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    
+    // Output the result in an element with id="demo"
+    document.getElementById("srt").innerHTML = days + "d " + hours + "h "
+    + minutes + "m " + seconds + "s ";
+    
+    // If the count down is over, write some text 
+    if (distance < 0) {
+        clearInterval(x);
+        document.getElementById("demo").innerHTML = "EXPIRED";
+    }
+}, 1000);
+
+ </script>

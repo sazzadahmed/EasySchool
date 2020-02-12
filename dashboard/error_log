@@ -1,0 +1,75 @@
+[11-Jun-2018 06:10:04 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/easyscho/public_html/CFM/includes/function.php:212
+Stack trace:
+#0 /home/easyscho/public_html/CFM/dashboard/course_offered.php(12): offer_semester_info(false, 'semester')
+#1 {main}
+  thrown in /home/easyscho/public_html/CFM/includes/function.php on line 212
+[11-Jun-2018 07:47:59 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/easyscho/public_html/CFM/includes/function.php:212
+Stack trace:
+#0 /home/easyscho/public_html/CFM/dashboard/course_offered.php(12): offer_semester_info(false, 'semester')
+#1 {main}
+  thrown in /home/easyscho/public_html/CFM/includes/function.php on line 212
+[18-Aug-2018 11:18:23 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/easyscho/public_html/CFM/includes/function.php:212
+Stack trace:
+#0 /home/easyscho/public_html/CFM/dashboard/course_offered.php(12): offer_semester_info(false, 'semester')
+#1 {main}
+  thrown in /home/easyscho/public_html/CFM/includes/function.php on line 212
+[27-Aug-2018 09:57:26 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/easyscho/public_html/CFM/includes/function.php:212
+Stack trace:
+#0 /home/easyscho/public_html/CFM/dashboard/course_offered.php(12): offer_semester_info(false, 'semester')
+#1 {main}
+  thrown in /home/easyscho/public_html/CFM/includes/function.php on line 212
+[04-Sep-2018 06:54:57 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/easyscho/public_html/CFM/includes/function.php:212
+Stack trace:
+#0 /home/easyscho/public_html/CFM/dashboard/course_offered.php(12): offer_semester_info(false, 'semester')
+#1 {main}
+  thrown in /home/easyscho/public_html/CFM/includes/function.php on line 212
+[09-Oct-2018 10:24:42 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/easyscho/public_html/CFM/includes/function.php:212
+Stack trace:
+#0 /home/easyscho/public_html/CFM/dashboard/course_offered.php(12): offer_semester_info(false, 'semester')
+#1 {main}
+  thrown in /home/easyscho/public_html/CFM/includes/function.php on line 212
+[23-Oct-2018 07:27:52 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/easyscho/public_html/CFM/includes/function.php:212
+Stack trace:
+#0 /home/easyscho/public_html/CFM/dashboard/course_offered.php(12): offer_semester_info(false, 'semester')
+#1 {main}
+  thrown in /home/easyscho/public_html/CFM/includes/function.php on line 212
+[23-Oct-2018 07:45:09 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/easyscho/public_html/CFM/includes/function.php:212
+Stack trace:
+#0 /home/easyscho/public_html/CFM/dashboard/course_offered.php(12): offer_semester_info(false, 'semester')
+#1 {main}
+  thrown in /home/easyscho/public_html/CFM/includes/function.php on line 212
+[24-Oct-2018 05:20:31 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/easyscho/public_html/CFM/includes/function.php:212
+Stack trace:
+#0 /home/easyscho/public_html/CFM/dashboard/course_offered.php(12): offer_semester_info(false, 'semester')
+#1 {main}
+  thrown in /home/easyscho/public_html/CFM/includes/function.php on line 212
+[24-Oct-2018 07:42:44 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/easyscho/public_html/CFM/includes/function.php:212
+Stack trace:
+#0 /home/easyscho/public_html/CFM/dashboard/course_offered.php(12): offer_semester_info(false, 'semester')
+#1 {main}
+  thrown in /home/easyscho/public_html/CFM/includes/function.php on line 212
+[18-Nov-2018 17:06:33 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/easyscho/public_html/CFM/includes/function.php:212
+Stack trace:
+#0 /home/easyscho/public_html/CFM/dashboard/course_offered.php(12): offer_semester_info(false, 'semester')
+#1 {main}
+  thrown in /home/easyscho/public_html/CFM/includes/function.php on line 212
+[19-Nov-2018 20:50:05 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/easyscho/public_html/CFM/includes/function.php:212
+Stack trace:
+#0 /home/easyscho/public_html/CFM/dashboard/course_offered.php(12): offer_semester_info(false, 'semester')
+#1 {main}
+  thrown in /home/easyscho/public_html/CFM/includes/function.php on line 212
+[19-Nov-2018 20:50:13 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/easyscho/public_html/CFM/includes/function.php:212
+Stack trace:
+#0 /home/easyscho/public_html/CFM/dashboard/course_offered.php(12): offer_semester_info(false, 'semester')
+#1 {main}
+  thrown in /home/easyscho/public_html/CFM/includes/function.php on line 212
+[07-May-2019 10:56:18 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/easyscho/public_html/CFM/includes/function.php:212
+Stack trace:
+#0 /home/easyscho/public_html/CFM/dashboard/course_offered.php(12): offer_semester_info(false, 'semester')
+#1 {main}
+  thrown in /home/easyscho/public_html/CFM/includes/function.php on line 212
+[26-May-2019 16:54:41 Europe/London] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/easyscho/public_html/CFM/includes/function.php:212
+Stack trace:
+#0 /home/easyscho/public_html/CFM/dashboard/course_offered.php(12): offer_semester_info(false, 'semester')
+#1 {main}
+  thrown in /home/easyscho/public_html/CFM/includes/function.php on line 212
